@@ -11,3 +11,4 @@ Workshop for introducing people to internationalization (I18N) and localization 
 * [GlotPress](https://github.com/GlotPress/GlotPress-WP)
 * [Traduttore GlotPress Plugin](https://github.com/wearerequired/traduttore)
 * [I18N-ready Gutenberg Blocks](https://github.com/swissspidy/gutenberg-i18n-block)
+* [Loading JavaScript Translations in WordPress 5.0](https://core.trac.wordpress.org/ticket/45103)
