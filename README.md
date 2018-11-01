@@ -14,6 +14,7 @@ Workshop for introducing people to internationalization (I18N) and localization 
 * [Loading JavaScript Translations in WordPress 5.0](https://core.trac.wordpress.org/ticket/45103)
 * [PHP_CodeSniffer + WordPress Coding Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards)
 * [WP-CLI](http://wp-cli.org/)
+* [Poedit](https://poedit.net/)
 
 ## WP-CLI Commands
 
