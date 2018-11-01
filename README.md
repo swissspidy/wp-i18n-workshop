@@ -2,6 +2,8 @@
 
 Workshop for introducing people to internationalization (I18N) and localization (L10N) in WordPress projects.
 
+Accompanying slides can be found in [slides.pdf](slides.pdf).
+
 ## Resources
 
 * [WordPress Plugin Developer Handbook](https://developer.wordpress.org/plugins/internationalization/)
