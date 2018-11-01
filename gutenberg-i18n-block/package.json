@@ -1,0 +1,22 @@
+{
+  "name": "gutenberg-i18n-block",
+  "version": "0.1.0",
+  "main": "block/block.js",
+  "author": "Pascal Birchler",
+  "devDependencies": {
+    "@wordpress/babel-preset-default": "^1.1.2",
+    "@wordpress/i18n": "^1.1.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.4"
+  },
+  "babel": {
+    "presets": [
+      "@wordpress/default"
+    ]
+  },
+  "scripts": {
+    "build": "babel block/src/block.js -o block/block.js",
+    "makepot": "wp i18n make-pot . --exclude=block/block.js"
+  }
+}
