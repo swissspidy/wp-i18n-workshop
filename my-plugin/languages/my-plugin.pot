@@ -9,8 +9,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2018-11-01T08:40:00+00:00\n"
-"PO-Revision-Date: 2018-11-01T08:40:00+00:00\n"
+"POT-Creation-Date: 2018-11-01T10:51:12+00:00\n"
+"PO-Revision-Date: 2018-11-01T10:51:12+00:00\n"
 "X-Generator: WP-CLI 2.0.1\n"
 "X-Domain: my-plugin\n"
 
@@ -34,260 +34,260 @@ msgstr ""
 msgid "YOUR SITE HERE"
 msgstr ""
 
-#: post-types/book.php:9
-#: post-types/book.php:33
+#: post-types/book.php:11
+#: post-types/book.php:35
 msgid "Books"
 msgstr ""
 
-#: post-types/book.php:10
+#: post-types/book.php:12
 msgid "Book"
 msgstr ""
 
-#: post-types/book.php:11
+#: post-types/book.php:13
 msgid "All Books"
 msgstr ""
 
-#: post-types/book.php:12
+#: post-types/book.php:14
 msgid "Book Archives"
 msgstr ""
 
-#: post-types/book.php:13
+#: post-types/book.php:15
 msgid "Book Attributes"
 msgstr ""
 
-#: post-types/book.php:14
+#: post-types/book.php:16
 msgid "Insert into book"
 msgstr ""
 
-#: post-types/book.php:15
-msgid "Uploaded to this book"
-msgstr ""
-
-#: post-types/book.php:16
-msgctxt "book"
-msgid "Featured Image"
-msgstr ""
-
 #: post-types/book.php:17
-msgctxt "book"
-msgid "Set featured image"
+msgid "Uploaded to this book"
 msgstr ""
 
 #: post-types/book.php:18
 msgctxt "book"
-msgid "Remove featured image"
+msgid "Featured Image"
 msgstr ""
 
 #: post-types/book.php:19
 msgctxt "book"
-msgid "Use as featured image"
+msgid "Set featured image"
 msgstr ""
 
 #: post-types/book.php:20
-msgid "Filter books list"
+msgctxt "book"
+msgid "Remove featured image"
 msgstr ""
 
 #: post-types/book.php:21
-msgid "Books list navigation"
+msgctxt "book"
+msgid "Use as featured image"
 msgstr ""
 
 #: post-types/book.php:22
-msgid "Books list"
+msgid "Filter books list"
 msgstr ""
 
 #: post-types/book.php:23
-msgid "New Book"
+msgid "Books list navigation"
 msgstr ""
 
 #: post-types/book.php:24
-msgid "Add New"
+msgid "Books list"
 msgstr ""
 
 #: post-types/book.php:25
-msgid "Add New Book"
+msgid "New Book"
 msgstr ""
 
 #: post-types/book.php:26
-msgid "Edit Book"
+msgid "Add New"
 msgstr ""
 
 #: post-types/book.php:27
-msgid "View Book"
+msgid "Add New Book"
 msgstr ""
 
 #: post-types/book.php:28
-msgid "View Books"
+msgid "Edit Book"
 msgstr ""
 
 #: post-types/book.php:29
-msgid "Search books"
+msgid "View Book"
 msgstr ""
 
 #: post-types/book.php:30
-msgid "No books found"
+msgid "View Books"
 msgstr ""
 
 #: post-types/book.php:31
-msgid "No books found in trash"
+msgid "Search books"
 msgstr ""
 
 #: post-types/book.php:32
+msgid "No books found"
+msgstr ""
+
+#: post-types/book.php:33
+msgid "No books found in trash"
+msgstr ""
+
+#: post-types/book.php:34
 msgid "Parent Book:"
 msgstr ""
 
 #. translators: %s: post permalink
-#: post-types/book.php:66
+#: post-types/book.php:69
 msgid "Book updated. <a target=\"_blank\" href=\"%s\">View book</a>"
 msgstr ""
 
-#: post-types/book.php:67
+#: post-types/book.php:70
 msgid "Custom field updated."
 msgstr ""
 
-#: post-types/book.php:68
+#: post-types/book.php:71
 msgid "Custom field deleted."
 msgstr ""
 
-#: post-types/book.php:69
+#: post-types/book.php:72
 msgid "Book updated."
 msgstr ""
 
 #. translators: %s: date and time of the revision
-#: post-types/book.php:71
+#: post-types/book.php:74
 msgid "Book restored to revision from %s"
 msgstr ""
 
 #. translators: %s: post permalink
-#: post-types/book.php:73
+#: post-types/book.php:76
 msgid "Book published. <a href=\"%s\">View book</a>"
 msgstr ""
 
-#: post-types/book.php:74
+#: post-types/book.php:77
 msgid "Book saved."
 msgstr ""
 
 #. translators: %s: post permalink
-#: post-types/book.php:76
+#: post-types/book.php:79
 msgid "Book submitted. <a target=\"_blank\" href=\"%s\">Preview book</a>"
 msgstr ""
 
 #. translators: 1: Publish box date format, see https://secure.php.net/date 2: Post permalink
-#: post-types/book.php:78
+#: post-types/book.php:82
 msgid "Book scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview book</a>"
 msgstr ""
 
 #. translators: %s: post permalink
-#: post-types/book.php:81
+#: post-types/book.php:87
 msgid "Book draft updated. <a target=\"_blank\" href=\"%s\">Preview book</a>"
 msgstr ""
 
-#: taxonomies/chapter.php:23
-#: taxonomies/chapter.php:40
+#: taxonomies/chapter.php:26
+#: taxonomies/chapter.php:43
 msgid "Chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:24
+#: taxonomies/chapter.php:27
 msgctxt "taxonomy general name"
 msgid "Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:25
+#: taxonomies/chapter.php:28
 msgid "Search Chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:26
+#: taxonomies/chapter.php:29
 msgid "Popular Chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:27
+#: taxonomies/chapter.php:30
 msgid "All Chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:28
+#: taxonomies/chapter.php:31
 msgid "Parent Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:29
+#: taxonomies/chapter.php:32
 msgid "Parent Chapter:"
 msgstr ""
 
-#: taxonomies/chapter.php:30
+#: taxonomies/chapter.php:33
 msgid "Edit Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:31
+#: taxonomies/chapter.php:34
 msgid "Update Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:32
+#: taxonomies/chapter.php:35
 msgid "View Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:33
+#: taxonomies/chapter.php:36
 msgid "Add New Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:34
+#: taxonomies/chapter.php:37
 msgid "New Chapter"
 msgstr ""
 
-#: taxonomies/chapter.php:35
+#: taxonomies/chapter.php:38
 msgid "Separate chapters with commas"
 msgstr ""
 
-#: taxonomies/chapter.php:36
+#: taxonomies/chapter.php:39
 msgid "Add or remove chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:37
+#: taxonomies/chapter.php:40
 msgid "Choose from the most used chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:38
+#: taxonomies/chapter.php:41
 msgid "No chapters found."
 msgstr ""
 
-#: taxonomies/chapter.php:39
+#: taxonomies/chapter.php:42
 msgid "No chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:41
+#: taxonomies/chapter.php:44
 msgid "Chapters list navigation"
 msgstr ""
 
-#: taxonomies/chapter.php:42
+#: taxonomies/chapter.php:45
 msgid "Chapters list"
 msgstr ""
 
-#: taxonomies/chapter.php:43
+#: taxonomies/chapter.php:46
 msgctxt "chapter"
 msgid "Most Used"
 msgstr ""
 
-#: taxonomies/chapter.php:44
+#: taxonomies/chapter.php:47
 msgid "&larr; Back to Chapters"
 msgstr ""
 
-#: taxonomies/chapter.php:64
+#: taxonomies/chapter.php:68
 msgid "Chapter added."
 msgstr ""
 
-#: taxonomies/chapter.php:65
+#: taxonomies/chapter.php:69
 msgid "Chapter deleted."
 msgstr ""
 
-#: taxonomies/chapter.php:66
+#: taxonomies/chapter.php:70
 msgid "Chapter updated."
 msgstr ""
 
-#: taxonomies/chapter.php:67
+#: taxonomies/chapter.php:71
 msgid "Chapter not added."
 msgstr ""
 
-#: taxonomies/chapter.php:68
+#: taxonomies/chapter.php:72
 msgid "Chapter not updated."
 msgstr ""
 
-#: taxonomies/chapter.php:69
+#: taxonomies/chapter.php:73
 msgid "Chapters deleted."
 msgstr ""
