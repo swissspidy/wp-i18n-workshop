@@ -12,7 +12,15 @@
  * @package         My_Plugin
  */
 
-// Your code starts here.
+function my_plugin_load_textdomain() {
+	load_plugin_textdomain(
+		'my-plugin',
+		false,
+		basename( __DIR__ ) . '/languages'
+	);
+};
+
+add_action( 'init', 'my_plugin_load_textdomain' );
 
 require_once __DIR__ . '/post-types/book.php';
 require_once __DIR__ . '/taxonomies/chapter.php';
