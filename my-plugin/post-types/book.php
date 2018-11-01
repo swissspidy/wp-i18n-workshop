@@ -80,7 +80,7 @@ function book_updated_messages( $messages ) {
 		9  => sprintf(
 			/* translators: 1: Publish box date format, see https://secure.php.net/date 2: Post permalink */
 			__( 'Book scheduled for: <strong>%1$s</strong>. <a target="_blank" href="%2$s">Preview book</a>', 'my-plugin' ),
-			date_i18n( __( 'M j, Y @ G:i' ), strtotime( $post->post_date ) ),
+			date_i18n( __( 'M j, Y @ G:i', 'my-plugin' ), strtotime( $post->post_date ) ),
 			esc_url( $permalink )
 		),
 		/* translators: %s: post permalink */
