@@ -15,6 +15,8 @@ Workshop for introducing people to internationalization (I18N) and localization 
 * [PHP_CodeSniffer + WordPress Coding Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards)
 * [WP-CLI](http://wp-cli.org/)
 * [Poedit](https://poedit.net/)
+* [Unicode Common Locale Data Repository (CLDR)](http://cldr.unicode.org/)
+* [W3C Internationalization Activity](https://www.w3.org/standards/webdesign/i18n)
 
 ## WP-CLI Commands
 
